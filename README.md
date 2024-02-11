@@ -11,6 +11,6 @@ Future Improvment:
 
 
 ![image](https://github.com/payalmit/Expense-tracker-react/assets/63918548/d577b408-be0d-4d67-b900-3766b0578cbb)
+![image](https://github.com/payalmit/Expense-tracker-react/assets/63918548/a189de44-80f5-4da1-b43f-3733f71b76b4)
 
-![image](https://github.com/payalmit/Expense-tracker-react/assets/63918548/5f6e9341-f656-436e-a69d-3762854aa0e1)
 
