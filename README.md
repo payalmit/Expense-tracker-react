@@ -11,4 +11,5 @@ Future Improvment:
 
 
 ![image](https://github.com/payalmit/Expense-tracker-react/assets/63918548/d577b408-be0d-4d67-b900-3766b0578cbb)
- dark mode - ![image](https://github.com/payalmit/Expense-tracker-react/assets/63918548/06a75bcb-6ccd-416b-8414-c19066514368)
+
+![image](https://github.com/payalmit/Expense-tracker-react/assets/63918548/0385b599-5a48-417a-9ca5-643db78d357d)
