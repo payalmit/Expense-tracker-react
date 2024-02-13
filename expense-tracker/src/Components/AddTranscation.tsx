@@ -2,6 +2,7 @@ import React from 'react'
 import { useState } from 'react';
 
 interface Transcation{
+    id: String,
     text : String,
     amount : Number
 }
@@ -15,6 +16,7 @@ const AddTranscation = ({addNewTranscation}) => {
    const handleSubmit =  (event)  =>{
     event.preventDefault();
     const  transcation : Transcation = {
+        id : Date.now().toString(),
         text : text,
         amount : amount
     }

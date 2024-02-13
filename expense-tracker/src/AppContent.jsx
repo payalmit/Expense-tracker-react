@@ -14,7 +14,7 @@ function AppContent() {
 
   return (
     (
-        <div>
+        <div  className={theme==='dark' ? 'dark-theme' : null}>
           <h1>Expense Tracker</h1>
           <button style={{ display: 'inline-grid' }}>
             <SwatchIcon height="20px" onClick={handleTheme} />

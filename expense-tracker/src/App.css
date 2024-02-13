@@ -22,6 +22,7 @@ body {
 .container {
   margin: 30px auto;
   width: 350px;
+  padding : 0px 5px 0px 5px;
 }
 
 h1 {
@@ -126,3 +127,22 @@ input[type='number'] {
   opacity: 0;
   transition: opacity 0.3s ease;
 }
+
+.dark-theme{
+ text-emphasis-color: white;
+ background-color: black; 
+}
+
+.dark-theme h1, .dark-theme h2, .dark-theme h3 ,
+ .dark-theme h4,  .dark-theme p, .dark-theme .list li , .dark-theme label{
+  color: white; 
+}
+
+.dark-theme .inc-exp-container, .dark-theme .list li, .dark-theme input{
+  background-color: black;
+}
+
+.dark-theme button{
+  background-color: grey;
+}
+
