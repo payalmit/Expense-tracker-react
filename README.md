@@ -9,8 +9,8 @@ Future Improvment:
 4. To add css and color theme for dark and light mode.
 
 
+![image](https://github.com/payalmit/Expense-tracker-react/assets/63918548/4817ccb7-edc7-4ddf-b2fc-0ce14431fd67)
 
-![image](https://github.com/payalmit/Expense-tracker-react/assets/63918548/d577b408-be0d-4d67-b900-3766b0578cbb)
 ![image](https://github.com/payalmit/Expense-tracker-react/assets/63918548/a189de44-80f5-4da1-b43f-3733f71b76b4)
 
 
