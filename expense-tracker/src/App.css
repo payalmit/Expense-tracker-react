@@ -134,7 +134,7 @@ input[type='number'] {
 }
 
 .dark-theme h1, .dark-theme h2, .dark-theme h3 ,
- .dark-theme h4,  .dark-theme p, .dark-theme .list li , .dark-theme label{
+ .dark-theme h4,  .dark-theme p, .dark-theme .list li , .dark-theme label, .dark-theme #amount{
   color: white; 
 }
 
